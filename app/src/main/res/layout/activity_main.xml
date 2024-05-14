@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/mainnew"
+    tools:context=".MainActivity">
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:background="#3400"
+        android:padding="2dp"
+        android:id="@+id/linLay"
+        android:gravity="center"
+        android:layout_gravity="center"
+        android:layout_margin="22dp"
+        android:layout_width="match_parent"
+        android:layout_height="90dp">
+        <TextView
+            android:text="Score - "
+            android:textStyle="bold|normal"
+            android:textColor="@color/white"
+            android:textSize="28sp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+        <TextView
+            android:id="@+id/score"
+            android:text=" 0 "
+            android:textStyle="bold|normal"
+            android:textColor="@color/white"
+            android:textSize="28sp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <GridLayout
+            android:id="@+id/board"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:background="#8067D9E8"
+            android:orientation="horizontal" />
+    </LinearLayout>
+
+
+
+
+
+
+
+</LinearLayout>

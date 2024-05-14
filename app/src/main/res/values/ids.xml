@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="scoreTextView" type="id" />
+    <item name="highestScoresTextView" type="id" />
+    <item name="highestScoreTextView" type="id" />
+    <item name="score" type="id" />
+</resources>

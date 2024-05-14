@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Fruitopia</string>
+    <string name="highest_score_xx">Highest Score: XX</string>
+</resources>
