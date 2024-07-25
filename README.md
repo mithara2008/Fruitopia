@@ -27,18 +27,3 @@ Fruitopia is a vibrant and addictive puzzle game where players engage themselves
 ### Game Screen
 ![Game Screen](path_to_image)
 
-## Student Information
-- **Student ID**: IT22604576
-- **Batch**: WD.IT.9.2
-- **Course**: BSc (Hons) in Information Technology
-- **Year**: 2nd Year
-- **Faculty**: Faculty of Computing
-- **Institution**: SLIIT
-
-## Marks Distribution
-1. **Code Quality and Organization**: 2 Points
-2. **Functionality**: 4 Points
-3. **Creativity and User Interface Design**: 2 Points
-4. **Performance and Stability**: 2 Points
-
-Total: 10 Marks
