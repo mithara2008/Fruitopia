@@ -18,15 +18,7 @@ Fruitopia is a vibrant and addictive puzzle game where players engage themselves
 - The final score is displayed along with the highest score achieved in previous sessions.
 
 ## Screenshots
-### Launch Screen
-![Launch Screen](![Picture1](https://github.com/user-attachments/assets/63b44475-cceb-40c3-9e46-cfcadd1b6015)
-
-
-### Start Screen
-![Start Screen](path_to_image)
-
-### Game Screen
-![Game Screen](path_to_image)
 
 
 
+<img width="579" alt="fruit" src="https://github.com/user-attachments/assets/f4631652-9d36-4a38-b335-711cb1885938">
