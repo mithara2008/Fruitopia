@@ -20,7 +20,7 @@ Fruitopia is a vibrant and addictive puzzle game where players engage themselves
 ## Screenshots
 ### Launch Screen
 ![Launch Screen](![Picture1](https://github.com/user-attachments/assets/63b44475-cceb-40c3-9e46-cfcadd1b6015)
-)
+
 
 ### Start Screen
 ![Start Screen](path_to_image)
